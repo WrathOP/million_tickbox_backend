@@ -1,7 +1,7 @@
 {
   "name": "million_tickbox_backend2",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.ts",
   "scripts": {
     "run": "ts-node src/index.ts",
     "dev": "nodemon src/index.ts",
